@@ -9,7 +9,7 @@
 
 ![Capture2](https://user-images.githubusercontent.com/89479885/134432148-cf4c70f7-56c6-44a8-b006-c7c825668bf4.PNG)
 
-<h1>USAGE<h1>
+<h1>USAGE</h1>
 <p>cd GHProxyList</p>
 <p>pip install -r requirements.txt</p>
 <p>python ghproxylist.py</p>
