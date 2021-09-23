@@ -28,8 +28,13 @@ from ip2geotools.databases.noncommercial import DbIpCity
 import pyfiglet
 import colorama
 import time
+import sys
 from colorama import *
 colorama.init()
+
+if sys.version_info < (3,0):
+    print("Sorry, requires Python 3.x, not python 2.x")
+    sys.exit(1)
 
 
 
